@@ -1,5 +1,1 @@
 # Evaluation of Transfer Learning for Mask Detection
-
-This was a directed-research project, under the supervision of Mr. Syed Athar Bin Amir(former Lecturer at North South University), where I worked in a group of 3 to explore the use of transfer learning across 5 models (MobileNetV2, InceptionV3, Resnet50V2, VGG16, and DenseNet121) and measured their effectiveness in mask detection. Due to the lack of a large, diverse, and annotated dataset, we explored the use of transfer learning using supervised methods and presented the results of the experiments upon the Keras open-sourced models. We found an average of 99% accuracy for all 5 models. However, when we used K-Fold Cross Validation to account for bias, we found significant differences in results with the highest accuracy being achieved by VGG16 at 98.6%. With the mixture of the standard method of training and testing alongside K-Fold Cross Validation, we present our findings for the use of transfer learning for mask detection.
-
-Read the full report [here](https://drive.google.com/file/d/14QgY8J5S3f8tffhAKMX9avv5KxoKTp6M/view?usp=sharing)
