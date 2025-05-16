@@ -137,9 +137,5 @@ python k_fold_cross_validation.py
 
 ---
 
-**To Do Later**:
-
-* Replace `images/accuracy_plot.png` and `images/loss_plot.png` with actual screenshots from your training results.
-* Upload the model files (e.g., `.h5`, `.tflite`) and CSV.
-* Create badges using GitHub Actions or Colab notebooks for quick launch if desired.
-
+## Publication: 
+* [Evaluation of Transfer Learning for Mask Detection](https://thescipub.com/abstract/jcssp.2022.78.89)
