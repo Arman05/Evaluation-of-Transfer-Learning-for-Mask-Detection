@@ -60,15 +60,15 @@ Using a custom-labeled dataset, we evaluate both **standard training/test splits
 
 ## 📂 Project Structure
 
-  📁 Mask-Detector/
-  ├── mask_detector.py # Transfer learning with selected model
-  ├── k_fold_cross_validation.py # K-Fold validation implementation
-  ├── training_labels.csv # CSV containing file-label mappings
-  ├── /ALL_DATASETS/dataset # Mask/No-Mask image folders
-  ├── /model_save/ # Saved models for each fold
-  ├── /logs/ # TensorBoard logs
-  ├── mask_detector.tflite # Exported TFLite model
-  └── mobilenetv2.h5 # Example saved model
+  * 📁 Mask-Detector/
+  * ├── mask_detector.py # Transfer learning with selected model
+  * ├── k_fold_cross_validation.py # K-Fold validation implementation
+  * ├── training_labels.csv # CSV containing file-label mappings
+  * ├── /ALL_DATASETS/dataset # Mask/No-Mask image folders
+  * ├── /model_save/ # Saved models for each fold
+  * ├── /logs/ # TensorBoard logs
+  * ├── mask_detector.tflite # Exported TFLite model
+  * └── mobilenetv2.h5 # Example saved model
 
 
 ---
