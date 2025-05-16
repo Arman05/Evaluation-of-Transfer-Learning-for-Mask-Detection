@@ -98,31 +98,6 @@ Also included:
 
 ---
 
-## ✅ How to Run
-
-### 🖥️ Standard Training:
-
-```bash
-python mask_detector.py
-
-## 🔁 K-Fold Cross Validation:
-
-```bash
-python k_fold_cross_validation.py
-```
-
-## 💾 Output:
-
-* Saved .h5 model weights for each fold
-* TensorBoard logs for training visualization
-* Converted .tflite model for edge deployment
-
-## 📊 Sample Results Visualization
-
-* (Will add actual accuracy/loss plots below)
-* Training/Validation Accuracy
-* Training/Validation Loss
-
 ## 📝 Conclusion
 
 * Transfer learning enables rapid deployment of mask detection systems.
