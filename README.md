@@ -125,21 +125,21 @@ python k_fold_cross_validation.py
 
 ## 📝 Conclusion
 
-** Transfer learning enables rapid deployment of mask detection systems.
-** K-Fold Cross Validation is critical to understanding generalization.
-** VGG16 stands out in robustness, making it a strong candidate for real-world deployment.
+* Transfer learning enables rapid deployment of mask detection systems.
+* K-Fold Cross Validation is critical to understanding generalization.
+* VGG16 stands out in robustness, making it a strong candidate for real-world deployment.
 
 ## 🙌 Acknowledgments
 
-** Inspired by real-world pandemic enforcement challenges.
-** Dataset compiled manually and preprocessed using standard pipelines.
+* Inspired by real-world pandemic enforcement challenges.
+* Dataset compiled manually and preprocessed using standard pipelines.
 
 
 ---
 
 **To Do Later**:
 
-- Replace `images/accuracy_plot.png` and `images/loss_plot.png` with actual screenshots from your training results.
-- Upload the model files (e.g., `.h5`, `.tflite`) and CSV.
-- Create badges using GitHub Actions or Colab notebooks for quick launch if desired.
+* Replace `images/accuracy_plot.png` and `images/loss_plot.png` with actual screenshots from your training results.
+* Upload the model files (e.g., `.h5`, `.tflite`) and CSV.
+* Create badges using GitHub Actions or Colab notebooks for quick launch if desired.
 
